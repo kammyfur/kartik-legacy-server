@@ -1,0 +1,13 @@
+{
+  "name": "kartikserver",
+  "version": "1.0.0",
+  "description": "A server to play Kartik with online friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0-or-later"
+}
